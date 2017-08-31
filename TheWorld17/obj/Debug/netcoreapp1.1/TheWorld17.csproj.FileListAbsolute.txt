@@ -1,0 +1,9 @@
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\bin\Debug\netcoreapp1.1\TheWorld17.deps.json
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\bin\Debug\netcoreapp1.1\TheWorld17.runtimeconfig.json
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\bin\Debug\netcoreapp1.1\TheWorld17.runtimeconfig.dev.json
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\bin\Debug\netcoreapp1.1\TheWorld17.dll
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\bin\Debug\netcoreapp1.1\TheWorld17.pdb
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\obj\Debug\netcoreapp1.1\TheWorld17.csproj.CoreCompileInputs.cache
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\obj\Debug\netcoreapp1.1\TheWorld17.AssemblyInfo.cs
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\obj\Debug\netcoreapp1.1\TheWorld17.dll
+C:\Users\ashby\OneDrive\Documents\Visual Studio 2017\Projects\TheWorld17\TheWorld17\obj\Debug\netcoreapp1.1\TheWorld17.pdb
